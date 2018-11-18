@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16285" started-at="2018-11-16T19:57:44Z" finished-at="2018-11-16T19:58:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16285" started-at="2018-11-16T19:57:44Z" finished-at="2018-11-16T19:58:01Z">
+      <class name="TestCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.LoginPageTest@52a86356]" name="setUp" is-config="true" duration-ms="10574" started-at="2018-11-16T19:57:44Z" finished-at="2018-11-16T19:57:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SignIn()[pri:0, instance:TestCases.LoginPageTest@52a86356]" name="SignIn" duration-ms="5637" started-at="2018-11-16T19:57:55Z" finished-at="2018-11-16T19:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:TestCases.LoginPageTest@52a86356]" name="loginPageTitleTest" duration-ms="12" started-at="2018-11-16T19:58:00Z" finished-at="2018-11-16T19:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="validateTitleTest()[pri:0, instance:TestCases.LoginPageTest@52a86356]" name="validateTitleTest" duration-ms="11" started-at="2018-11-16T19:58:00Z" finished-at="2018-11-16T19:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitleTest -->
+      </class> <!-- TestCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
